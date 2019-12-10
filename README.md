@@ -2,6 +2,8 @@
 
 Arduino script to display and control radios, autopilot, and flight management system in X-Plane 10.  
 
+![Alt text](IMG_6973_ISO%20Focus.jpg?raw=true "Title")
+
 Video of prototype is available here
 1) https://www.facebook.com/gregegg/videos/vb.522916727/10151492879211728/?type=2&video_source=user_video_tab
 2) https://www.facebook.com/gregegg/videos/vb.522916727/10151501315226728/?type=2&video_source=user_video_tab
