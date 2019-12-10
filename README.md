@@ -4,7 +4,7 @@ Arduino script to display and control radios, autopilot, and flight management s
 
 ![sketchup](top.png)
 ![build](build.jpg)
-![functions](functions.jpg)
+![functions](functions.png)
 
 Video of prototype is available here
 1) https://www.facebook.com/gregegg/videos/vb.522916727/10151492879211728/?type=2&video_source=user_video_tab
